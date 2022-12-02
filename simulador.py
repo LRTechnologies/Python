@@ -1,7 +1,6 @@
 import math
 import time
 m=4096
-
 minutosSimulados=480 #8horas
 tiemposFila1=[]
 #FUNCION PARA OBTENER PROMEDIO DE UN ARRAY
